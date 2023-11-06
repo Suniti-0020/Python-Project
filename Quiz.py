@@ -4,7 +4,11 @@ import json
 # Python Random module is an in-built module of Python which is used to generate random numbers. 
 import random
 # No echo input ( passwords aren't shown )
-import getpass
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+
 
 def Quiz_Start(f) :
     print("\n==========QUIZ START==========")
@@ -24,6 +28,12 @@ def Quiz_Start(f) :
             print("\nYou are incorrect")
         del j[ch]
     print(f'\nFINAL SCORE: {score}')
+    y = np.array([score,10-score])
+    mylabels = ["Correct", "Incorrect"]
+    myexplode = [0.1,0]
+    plt.pie(y,labels = mylabels, explode = myexplode)
+    plt.show() 
+	
 
 def play():
 	choice = 1
