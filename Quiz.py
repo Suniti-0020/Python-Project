@@ -6,45 +6,108 @@ import random
 # No echo input ( passwords aren't shown )
 import getpass
 
-user = []
+def Quiz_Start(f) :
+    print("\n==========QUIZ START==========")
+    score = 0  
+    j = json.load(f)
+    for i in range(10):
+        no_of_questions = len(j)
+        ch = random.randint(0, no_of_questions-1)
+        print(f'\nQ{i+1} {j[ch]["question"]}\n')
+        for option in j[ch]["options"]:
+            print(option)
+        answer = input("\nEnter your answer: ")
+        if j[ch]["answer"][0] == answer[0].upper():
+            print("\nYou are correct")
+            score+=1
+        else:
+            print("\nYou are incorrect")
+        del j[ch]
+    print(f'\nFINAL SCORE: {score}')
 
 def play():
-	print("\n==========QUIZ START==========")
-	score = 0
-	with open("assets/questions.json", 'r+') as f:
-		j = json.load(f)
-		for i in range(10):
-			no_of_questions = len(j)
-			ch = random.randint(0, no_of_questions-1)
-			print(f'\nQ{i+1} {j[ch]["question"]}\n')
-			for option in j[ch]["options"]:
-				print(option)
-			answer = input("\nEnter your answer: ")
-			if j[ch]["answer"][0] == answer[0].upper():
-				print("\nYou are correct")
-				score+=1
-			else:
-				print("\nYou are incorrect")
-			del j[ch]
-		print(f'\nFINAL SCORE: {score}')
-
-def quizQuestions():
+	choice = 1
+	while choice != 6:
+		print('\n========Select any topic==========')
+		print('-----------------------------------------')
+		print('1. Sports  ')
+		print('2. Entertainment')
+		print('3. History')
+		print('4. Science')
+		print('5. CS Fundamentals')
+		choice = int(input('ENTER YOUR CHOICE: '))
+		if choice == 1:
+			with open("assets/sports.json", 'r+') as f:
+				Quiz_Start(f)
+		elif choice == 2:
+			with open("assets/entertainment.json", 'r+') as f:
+				Quiz_Start(f)
+		elif choice == 3:
+			with open("assets/history.json", 'r+') as f:
+				Quiz_Start(f)
+		elif choice == 4:
+			with open("assets/science.json", 'r+') as f:
+				Quiz_Start(f)
+		elif choice == 5:
+			with open("assets/csfundamentals.json", 'r+') as f:
+				Quiz_Start(f)
+		elif choice == 6:
+			break
+		else:
+			print('WRONG INPUT. ENTER THE CHOICE AGAIN')
 	
-			print('\n==========ADD QUESTIONS==========\n')
-			ques = input("Enter the question that you want to add:\n")
-			opt = []
-			print("Enter the 4 options with character initials (A, B, C, D)")
-			for _ in range(4):
-				opt.append(input())
-			ans = input("Enter the answer:\n")
-			with open("assets/questions.json", 'r+') as f:
-				questions = json.load(f)
-				dic = {"question": ques, "options": opt, "answer": ans}
-				questions.append(dic)
-				f.seek(0)
-				json.dump(questions, f)
-				f.truncate()
-				print("Question successfully added.")		
+def addQuestion(f,ques,opt,ans) :
+    questions = json.load(f)
+    dic = {"question": ques, "options": opt, "answer": ans} 
+    questions.append(dic)
+    f.seek(0)
+    json.dump(questions, f)
+    f.truncate()
+    print("Question successfully added.")	
+
+def quizQuestions():	
+    print('\n==========ADD QUESTIONS==========\n')
+    ques = input("Enter the question that you want to add:\n")
+    opt = []
+    print("Enter the 4 options with character initials (A, B, C, D)")
+    for _ in range(4):
+        opt.append(input())
+    ans = input("Enter the answer:\n")
+    choice = 1 
+    while choice != 6:
+        print('\n========Select any topic==========')
+        print('-----------------------------------------')
+        print('1. Sports  ')
+        print('2. Entertainment')
+        print('3. History')
+        print('4. Science')
+        print('5. CS Fundamentals')
+        choice = int(input('ENTER YOUR CHOICE: '))
+        if choice == 1:
+            with open("assets/sports.json", 'r+') as f:
+                addQuestion(f,ques,opt,ans)
+            break
+        elif choice == 2:
+            with open("assets/entertainment.json", 'r+') as f:
+                addQuestion(f,ques,opt,ans)
+            break
+        elif choice == 3:
+            with open("assets/history.json", 'r+') as f:
+                addQuestion(f, ques,opt,ans)
+            break
+        elif choice == 4:
+            with open("assets/science.json", 'r+') as f:
+                addQuestion(f, ques,opt,ans)
+            break
+        elif choice == 5:
+            with open("assets/csfundamentals.json", 'r+') as f:
+                addQuestion(f, ques,opt,ans)
+            break
+        elif choice == 6:
+            break
+        else:
+            print('WRONG INPUT. ENTER THE CHOICE AGAIN')
+					
 		
 
 def rules():
@@ -56,12 +119,12 @@ Your final score will be given at the end.
 
 def about():
 	print('''\n==========ABOUT US==========
-This project has been created by Aman Khadka.
-It is a basic Python Project for my 1st Semester.''')
+This project has been created by Suniti , Sarika and Nidhi .
+It is a basic Python Project for my 3rd Semester.''')
 
 if __name__ == "__main__":
 	choice = 1
-	while choice != 7:
+	while choice != 4:
 		print('\n=========WELCOME TO QUIZ MASTER==========')
 		print('-----------------------------------------')
 		print('1. PLAY QUIZ')

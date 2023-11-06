@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "A. George Washington",
+            "B. Thomas Jefferson",
+            "C. John Adams",
+            "D. James Madison"
+        ],
+        "answer": "A. George Washington"
+    },
+    {
+        "question": "In which year did World War II end?",
+        "options": [
+            "A. 1945",
+            "B. 1939",
+            "C. 1941",
+            "D. 1943"
+        ],
+        "answer": "A. 1945"
+    },
+    {
+        "question": "Which ancient civilization built the Great Wall of China?",
+        "options": [
+            "A. Chinese",
+            "B. Mongolian",
+            "C. Qin Dynasty",
+            "D. Han Dynasty"
+        ],
+        "answer": "C. Qin Dynasty"
+    },
+    {
+        "question": "Who wrote the 'Iliad' and the 'Odyssey'?",
+        "options": [
+            "A. Homer",
+            "B. Aristotle",
+            "C. Plato",
+            "D. Socrates"
+        ],
+        "answer": "A. Homer"
+    },
+    {
+        "question": "Which battle is known as the turning point of the American Civil War?",
+        "options": [
+            "A. Battle of Gettysburg",
+            "B. Battle of Antietam",
+            "C. Battle of Bull Run",
+            "D. Battle of Vicksburg"
+        ],
+        "answer": "A. Battle of Gettysburg"
+    },
+    {
+        "question": "Who was the first Emperor of Rome?",
+        "options": [
+            "A. Augustus",
+            "B. Julius Caesar",
+            "C. Nero",
+            "D. Constantine"
+        ],
+        "answer": "A. Augustus"
+    },
+    {
+        "question": "Which ancient civilization was known for the invention of writing (cuneiform script)?",
+        "options": [
+            "A. Sumerians",
+            "B. Egyptians",
+            "C. Greeks",
+            "D. Romans"
+        ],
+        "answer": "A. Sumerians"
+    },
+    {
+        "question": "Who was the leader of the Bolsheviks during the Russian Revolution of 1917?",
+        "options": [
+            "A. Vladimir Lenin",
+            "B. Joseph Stalin",
+            "C. Leon Trotsky",
+            "D. Mikhail Gorbachev"
+        ],
+        "answer": "A. Vladimir Lenin"
+    },
+    {
+        "question": "Which city was the capital of the Byzantine Empire?",
+        "options": [
+            "A. Constantinople",
+            "B. Athens",
+            "C. Rome",
+            "D. Alexandria"
+        ],
+        "answer": "A. Constantinople"
+    },
+    {
+        "question": "Who was the first female Prime Minister of India?",
+        "options": [
+            "A. Indira Gandhi",
+            "B. Sonia Gandhi",
+            "C. Mother Teresa",
+            "D. Margaret Thatcher"
+        ],
+        "answer": "A. Indira Gandhi"
+    },
+    {
+        "question": "Which explorer is credited with circumnavigating the globe?",
+        "options": [
+            "A. Ferdinand Magellan",
+            "B. Christopher Columbus",
+            "C. Vasco da Gama",
+            "D. Marco Polo"
+        ],
+        "answer": "A. Ferdinand Magellan"
+    },
+    {
+        "question": "Who was the first Pharaoh of Ancient Egypt?",
+        "options": [
+            "A. Narmer",
+            "B. Tutankhamun",
+            "C. Cleopatra",
+            "D. Ramses II"
+        ],
+        "answer": "A. Narmer"
+    },
+    {
+        "question": "Which treaty officially ended World War I?",
+        "options": [
+            "A. Treaty of Versailles",
+            "B. Treaty of Tordesillas",
+            "C. Treaty of Brest-Litovsk",
+            "D. Treaty of Paris"
+        ],
+        "answer": "A. Treaty of Versailles"
+    },
+    {
+        "question": "Who was the first Emperor of China?",
+        "options": [
+            "A. Qin Shi Huang",
+            "B. Han Wudi",
+            "C. Confucius",
+            "D. Sun Tzu"
+        ],
+        "answer": "A. Qin Shi Huang"
+    },
+    {
+        "question": "Which event marked the beginning of the French Revolution?",
+        "options": [
+            "A. Storming of the Bastille",
+            "B. Reign of Terror",
+            "C. Tennis Court Oath",
+            "D. Battle of Waterloo"
+        ],
+        "answer": "A. Storming of the Bastille"
+    }
+]

@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Who holds the record for the fastest 100m sprint in the world?",
+        "options": [
+            "A. Usain Bolt",
+            "B. Carl Lewis",
+            "C. Justin Gatlin",
+            "D. Tyson Gay"
+        ],
+        "answer": "A. Usain Bolt"
+    },
+    {
+        "question": "Which country won the FIFA World Cup in 2018?",
+        "options": [
+            "A. Brazil",
+            "B. France",
+            "C. Germany",
+            "D. Argentina"
+        ],
+        "answer": "B. France"
+    },
+    {
+        "question": "Who is considered the 'Greatest of All Time' (GOAT) in basketball?",
+        "options": [
+            "A. Michael Jordan",
+            "B. LeBron James",
+            "C. Kobe Bryant",
+            "D. Magic Johnson"
+        ],
+        "answer": "A. Michael Jordan"
+    },
+    {
+        "question": "Which sport is known as the 'king of sports'?",
+        "options": [
+            "A. Soccer",
+            "B. Tennis",
+            "C. Cricket",
+            "D. Baseball"
+        ],
+        "answer": "A. Soccer"
+    },
+    {
+        "question": "What is the national sport of Japan?",
+        "options": [
+            "A. Sumo",
+            "B. Judo",
+            "C. Karate",
+            "D. Kendo"
+        ],
+        "answer": "A. Sumo"
+    },
+    {
+        "question": "Which country has won the most Olympic gold medals in history?",
+        "options": [
+            "A. United States",
+            "B. China",
+            "C. Russia",
+            "D. Germany"
+        ],
+        "answer": "A. United States"
+    },
+    {
+        "question": "Who is the all-time leading scorer in NBA history?",
+        "options": [
+            "A. Kareem Abdul-Jabbar",
+            "B. LeBron James",
+            "C. Kobe Bryant",
+            "D. Michael Jordan"
+        ],
+        "answer": "A. Kareem Abdul-Jabbar"
+    },
+    {
+        "question": "In which year was the first modern Olympic Games held?",
+        "options": [
+            "A. 1896",
+            "B. 1900",
+            "C. 1912",
+            "D. 1924"
+        ],
+        "answer": "A. 1896"
+    },
+    {
+        "question": "Which tennis player has won the most Grand Slam titles in history?",
+        "options": [
+            "A. Serena Williams",
+            "B. Rafael Nadal",
+            "C. Roger Federer",
+            "D. Margaret Court"
+        ],
+        "answer": "D. Margaret Court"
+    },
+    {
+        "question": "Who is the fastest bowler in cricket history?",
+        "options": [
+            "A. Shoaib Akhtar",
+            "B. Brett Lee",
+            "C. Shaun Tait",
+            "D. Jeff Thomson"
+        ],
+        "answer": "A. Shoaib Akhtar"
+    },
+    {
+        "question": "Which country won the FIFA Women's World Cup in 2019?",
+        "options": [
+            "A. United States",
+            "B. France",
+            "C. Germany",
+            "D. England"
+        ],
+        "answer": "A. United States"
+    },
+    {
+        "question": "Who holds the record for the most home runs in Major League Baseball (MLB)?",
+        "options": [
+            "A. Barry Bonds",
+            "B. Babe Ruth",
+            "C. Hank Aaron",
+            "D. Sammy Sosa"
+        ],
+        "answer": "A. Barry Bonds"
+    },
+    {
+        "question": "Which country has won the most FIFA World Cup titles?",
+        "options": [
+            "A. Brazil",
+            "B. Germany",
+            "C. Italy",
+            "D. Argentina"
+        ],
+        "answer": "A. Brazil"
+    },
+    {
+        "question": "Who won the Tour de France in 2021?",
+        "options": [
+            "A. Tadej Pogacar",
+            "B. Primoz Roglic",
+            "C. Richard Carapaz",
+            "D. Egan Bernal"
+        ],
+        "answer": "A. Tadej Pogacar"
+    },
+    {
+        "question": "Which country won the Rugby World Cup in 2019?",
+        "options": [
+            "A. South Africa",
+            "B. New Zealand",
+            "C. England",
+            "D. Australia"
+        ],
+        "answer": "A. South Africa"
+    }
+]

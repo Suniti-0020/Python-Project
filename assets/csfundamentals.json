@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What does CPU stand for?",
+        "options": [
+            "A. Central Processing Unit",
+            "B. Central Processor Unit",
+            "C. Central Process Unit",
+            "D. Central Printed Unit"
+        ],
+        "answer": "A. Central Processing Unit"
+    },
+    {
+        "question": "What is the binary system?",
+        "options": [
+            "A. A base-2 numeral system",
+            "B. A base-10 numeral system",
+            "C. A base-8 numeral system",
+            "D. A base-16 numeral system"
+        ],
+        "answer": "A. A base-2 numeral system"
+    },
+    {
+        "question": "What does HTML stand for?",
+        "options": [
+            "A. Hyper Text Markup Language",
+            "B. High-Level Text Markup Language",
+            "C. Home Tool Markup Language",
+            "D. Hyperlink and Text Markup Language"
+        ],
+        "answer": "A. Hyper Text Markup Language"
+    },
+    {
+        "question": "What is the purpose of an operating system?",
+        "options": [
+            "A. Manage hardware resources and provide services for computer programs",
+            "B. Store and organize data files",
+            "C. Provide internet access",
+            "D. Design user interfaces"
+        ],
+        "answer": "A. Manage hardware resources and provide services for computer programs"
+    },
+    {
+        "question": "What is a data structure?",
+        "options": [
+            "A. A way to organize, manage, and store data",
+            "B. A type of computer chip",
+            "C. A programming language",
+            "D. A system for transmitting data over a network"
+        ],
+        "answer": "A. A way to organize, manage, and store data"
+    },
+    {
+        "question": "What is the purpose of a compiler?",
+        "options": [
+            "A. To translate high-level programming languages into machine code",
+            "B. To manage computer memory",
+            "C. To execute program instructions",
+            "D. To create graphics for user interfaces"
+        ],
+        "answer": "A. To translate high-level programming languages into machine code"
+    },
+    {
+        "question": "What does TCP/IP stand for?",
+        "options": [
+            "A. Transmission Control Protocol/Internet Protocol",
+            "B. Total Control Protocol/Internet Protocol",
+            "C. Terminal Control Protocol/Internet Protocol",
+            "D. Transfer Control Protocol/Internet Protocol"
+        ],
+        "answer": "A. Transmission Control Protocol/Internet Protocol"
+    },
+    {
+        "question": "What is a variable in programming?",
+        "options": [
+            "A. A storage location identified by a memory address",
+            "B. A named storage location for data",
+            "C. A type of computer virus",
+            "D. A type of hardware component"
+        ],
+        "answer": "B. A named storage location for data"
+    },
+    {
+        "question": "What is the difference between a stack and a queue?",
+        "options": [
+            "A. In a stack, the last item added is the first one to be removed; in a queue, the first item added is the first one to be removed",
+            "B. In a stack, the first item added is the first one to be removed; in a queue, the last item added is the first one to be removed",
+            "C. Stacks and queues are the same thing",
+            "D. Stacks and queues are not used in computer science"
+        ],
+        "answer": "A. In a stack, the last item added is the first one to be removed; in a queue, the first item added is the first one to be removed"
+    },
+    {
+        "question": "What is an algorithm?",
+        "options": [
+            "A. A step-by-step procedure or formula for solving a problem",
+            "B. A type of computer hardware",
+            "C. A type of data structure",
+            "D. A programming language"
+        ],
+        "answer": "A. A step-by-step procedure or formula for solving a problem"
+    },
+    {
+        "question": "What is a loop in programming?",
+        "options": [
+            "A. A control structure that repeats a block of code until a specified condition is met",
+            "B. A type of data structure",
+            "C. A way to store multiple values in a single variable",
+            "D. A type of compiler"
+        ],
+        "answer": "A. A control structure that repeats a block of code until a specified condition is met"
+    },
+    {
+        "question": "What is object-oriented programming (OOP)?",
+        "options": [
+            "A. A programming paradigm based on the concept of 'objects', which are instances of classes",
+            "B. A programming language used for creating web pages",
+            "C. A type of data structure",
+            "D. A type of network protocol"
+        ],
+        "answer": "A. A programming paradigm based on the concept of 'objects', which are instances of classes"
+    },
+    {
+        "question": "What is a function in programming?",
+        "options": [
+            "A. A reusable block of code that performs a specific task",
+            "B. A type of computer virus",
+            "C. A type of loop",
+            "D. A type of data structure"
+        ],
+        "answer": "A. A reusable block of code that performs a specific task"
+    },
+    {
+        "question": "What is binary search?",
+        "options": [
+            "A. A searching algorithm that finds the position of a target value within a sorted array",
+            "B. A method for encoding data in binary format",
+            "C. A type of computer virus",
+            "D. A way to transmit data over a network"
+        ],
+        "answer": "A. A searching algorithm that finds the position of a target value within a sorted array"
+    },
+    {
+        "question": "What is a linked list?",
+        "options": [
+            "A. A linear data structure where elements are stored in nodes",
+            "B. A type of computer network",
+            "C. A type of programming language",
+            "D. A type of computer hardware"
+        ],
+        "answer": "A. A linear data structure where elements are stored in nodes"
+    }
+]

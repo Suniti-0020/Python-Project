@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Who played the lead role in the movie 'Titanic'?",
+        "options": [
+            "A. Leonardo DiCaprio",
+            "B. Johnny Depp",
+            "C. Brad Pitt",
+            "D. Tom Cruise"
+        ],
+        "answer": "A. Leonardo DiCaprio"
+    },
+    {
+        "question": "Which actress starred as Katniss Everdeen in 'The Hunger Games' film series?",
+        "options": [
+            "A. Jennifer Lawrence",
+            "B. Emma Watson",
+            "C. Scarlett Johansson",
+            "D. Natalie Portman"
+        ],
+        "answer": "A. Jennifer Lawrence"
+    },
+    {
+        "question": "Who directed the movie 'The Dark Knight'?",
+        "options": [
+            "A. Christopher Nolan",
+            "B. Steven Spielberg",
+            "C. Quentin Tarantino",
+            "D. James Cameron"
+        ],
+        "answer": "A. Christopher Nolan"
+    },
+    {
+        "question": "Which animated film features a talking snowman named Olaf?",
+        "options": [
+            "A. Frozen",
+            "B. Moana",
+            "C. Zootopia",
+            "D. Toy Story"
+        ],
+        "answer": "A. Frozen"
+    },
+    {
+        "question": "What is the name of the fictional wizarding school in the Harry Potter series?",
+        "options": [
+            "A. Hogwarts",
+            "B. Beauxbatons",
+            "C. Durmstrang",
+            "D. Ilvermorny"
+        ],
+        "answer": "A. Hogwarts"
+    },
+    {
+        "question": "Who played the character of Tony Stark (Iron Man) in the Marvel Cinematic Universe?",
+        "options": [
+            "A. Robert Downey Jr.",
+            "B. Chris Hemsworth",
+            "C. Chris Evans",
+            "D. Mark Ruffalo"
+        ],
+        "answer": "A. Robert Downey Jr."
+    },
+    {
+        "question": "Which singer released the album '1989'?",
+        "options": [
+            "A. Taylor Swift",
+            "B. Adele",
+            "C. Beyoncé",
+            "D. Rihanna"
+        ],
+        "answer": "A. Taylor Swift"
+    },
+    {
+        "question": "What is the highest-grossing film of all time (as of 2022)?",
+        "options": [
+            "A. Avengers: Endgame",
+            "B. Avatar",
+            "C. The Lion King (2019)",
+            "D. Star Wars: The Force Awakens"
+        ],
+        "answer": "A. Avengers: Endgame"
+    },
+    {
+        "question": "Which actor played the character Jack Dawson in 'Titanic'?",
+        "options": [
+            "A. Leonardo DiCaprio",
+            "B. Johnny Depp",
+            "C. Brad Pitt",
+            "D. Tom Cruise"
+        ],
+        "answer": "A. Leonardo DiCaprio"
+    },
+    {
+        "question": "Who is known as the 'Queen of Pop'?",
+        "options": [
+            "A. Madonna",
+            "B. Beyoncé",
+            "C. Lady Gaga",
+            "D. Rihanna"
+        ],
+        "answer": "A. Madonna"
+    },
+    {
+        "question": "Which film won the Academy Award for Best Picture in 2020?",
+        "options": [
+            "A. Parasite",
+            "B. 1917",
+            "C. Joker",
+            "D. Once Upon a Time in Hollywood"
+        ],
+        "answer": "A. Parasite"
+    },
+    {
+        "question": "Who played the character Jack Sparrow in the 'Pirates of the Caribbean' film series?",
+        "options": [
+            "A. Johnny Depp",
+            "B. Brad Pitt",
+            "C. Tom Cruise",
+            "D. Will Smith"
+        ],
+        "answer": "A. Johnny Depp"
+    },
+    {
+        "question": "Which TV series features dragons, white walkers, and the Iron Throne?",
+        "options": [
+            "A. Game of Thrones",
+            "B. Breaking Bad",
+            "C. The Walking Dead",
+            "D. Friends"
+        ],
+        "answer": "A. Game of Thrones"
+    },
+    {
+        "question": "Who directed the movie 'Inception'?",
+        "options": [
+            "A. Christopher Nolan",
+            "B. Quentin Tarantino",
+            "C. Martin Scorsese",
+            "D. Steven Spielberg"
+        ],
+        "answer": "A. Christopher Nolan"
+    },
+    {
+        "question": "Which actor starred as James Bond in the movie 'Skyfall'?",
+        "options": [
+            "A. Daniel Craig",
+            "B. Pierce Brosnan",
+            "C. Sean Connery",
+            "D. Roger Moore"
+        ],
+        "answer": "A. Daniel Craig"
+    }
+]

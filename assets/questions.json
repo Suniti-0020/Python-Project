@@ -318,15 +318,5 @@
             "D. Automobile wheel rim"
         ],
         "answer": "B. Pneumatic rubber tire"
-    },
-    {
-        "question": "Who built this project ?",
-        "options": [
-            "Aman",
-            "Nutan",
-            "Shyam",
-            "Ram"
-        ],
-        "answer": "Aman"
     }
 ]

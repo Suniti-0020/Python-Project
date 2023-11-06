@@ -1,0 +1,152 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "options": [
+            "A. H2O",
+            "B. CO2",
+            "C. O2",
+            "D. N2"
+        ],
+        "answer": "A. H2O"
+    },
+    {
+        "question": "What is the process by which plants make their own food using sunlight?",
+        "options": [
+            "A. Photosynthesis",
+            "B. Respiration",
+            "C. Fermentation",
+            "D. Transpiration"
+        ],
+        "answer": "A. Photosynthesis"
+    },
+    {
+        "question": "Which gas makes up the majority of Earth's atmosphere?",
+        "options": [
+            "A. Nitrogen",
+            "B. Oxygen",
+            "C. Carbon dioxide",
+            "D. Hydrogen"
+        ],
+        "answer": "A. Nitrogen"
+    },
+    {
+        "question": "What is the smallest unit of matter?",
+        "options": [
+            "A. Atom",
+            "B. Molecule",
+            "C. Electron",
+            "D. Proton"
+        ],
+        "answer": "A. Atom"
+    },
+    {
+        "question": "Which planet is known as the 'Red Planet'?",
+        "options": [
+            "A. Mars",
+            "B. Venus",
+            "C. Jupiter",
+            "D. Saturn"
+        ],
+        "answer": "A. Mars"
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "A. Au",
+            "B. Ag",
+            "C. Fe",
+            "D. Cu"
+        ],
+        "answer": "A. Au"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "A. Mitochondria",
+            "B. Nucleus",
+            "C. Ribosome",
+            "D. Endoplasmic reticulum"
+        ],
+        "answer": "A. Mitochondria"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": [
+            "A. Albert Einstein",
+            "B. Isaac Newton",
+            "C. Galileo Galilei",
+            "D. Marie Curie"
+        ],
+        "answer": "A. Albert Einstein"
+    },
+    {
+        "question": "What is the chemical symbol for carbon dioxide?",
+        "options": [
+            "A. CO2",
+            "B. O2",
+            "C. H2O",
+            "D. N2"
+        ],
+        "answer": "A. CO2"
+    },
+    {
+        "question": "Which gas do plants absorb from the atmosphere to perform photosynthesis?",
+        "options": [
+            "A. Carbon dioxide",
+            "B. Oxygen",
+            "C. Nitrogen",
+            "D. Hydrogen"
+        ],
+        "answer": "A. Carbon dioxide"
+    },
+    {
+        "question": "What is the process by which an organism changes over time in response to its environment?",
+        "options": [
+            "A. Evolution",
+            "B. Adaptation",
+            "C. Metamorphosis",
+            "D. Mutation"
+        ],
+        "answer": "A. Evolution"
+    },
+    {
+        "question": "What is the chemical symbol for oxygen?",
+        "options": [
+            "A. O2",
+            "B. H2O",
+            "C. CO2",
+            "D. N2"
+        ],
+        "answer": "A. O2"
+    },
+    {
+        "question": "Which element has the atomic number 79?",
+        "options": [
+            "A. Gold",
+            "B. Silver",
+            "C. Iron",
+            "D. Copper"
+        ],
+        "answer": "A. Gold"
+    },
+    {
+        "question": "What is the study of fossils called?",
+        "options": [
+            "A. Paleontology",
+            "B. Archeology",
+            "C. Geology",
+            "D. Anthropology"
+        ],
+        "answer": "A. Paleontology"
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": [
+            "A. 299,792,458 meters per second",
+            "B. 100,000,000 meters per second",
+            "C. 500,000,000 meters per second",
+            "D. 200,000,000 meters per second"
+        ],
+        "answer": "A. 299,792,458 meters per second"
+    }
+]
