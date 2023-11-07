@@ -45,6 +45,7 @@ def play():
 		print('3. History')
 		print('4. Science')
 		print('5. CS Fundamentals')
+		print("6. Exit")
 		choice = int(input('ENTER YOUR CHOICE: '))
 		if choice == 1:
 			with open("assets/sports.json", 'r+') as f:
